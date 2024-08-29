@@ -1,3 +1,3 @@
 # This is the main header
 
-I added a header. 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
